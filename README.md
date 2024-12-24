@@ -1,4 +1,6 @@
 This **GlucoGuard**  is basically an Diabetics Prediction tool made using python and machine learn algorithm (Support vector Machine )
+
+
 Tech Stack used :
 **Programming Language:**
 
